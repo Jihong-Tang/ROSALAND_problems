@@ -1,6 +1,0 @@
-{
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "/usr/bin/python3"
-}
